@@ -1,5 +1,5 @@
-title = "Eddie Webb"
-baseURL = "https://example.com/"
+title = "Guida Pile"
+baseURL = "https://guidapile.pages.dev"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
