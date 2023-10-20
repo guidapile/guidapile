@@ -9,11 +9,6 @@
     font-family: "Ubuntu-Titling";
     src: url("../font/UbuntuTitling-Bold.ttf") format("truetype");
 }
-
-.top-section {
-    margin: 20px;
-    
-}
 .imgbtntxt { text-align:center; font-size:1.5em; font-weight:normal; color:#999; text-decoration:none; }
 .abitbigger { font-size:1.3em; }
 .verylarge { font-size:2em; }
