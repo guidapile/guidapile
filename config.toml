@@ -1,6 +1,6 @@
 baseURL = "http://guidapile.pages.dev/"
 languageCode = "en-us"
-title = "Guida Pile - Listings"
+title = "Guida Pile's Listings"
 theme = "ticky_tacky_dark"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -10,7 +10,7 @@ enableEmoji = true
     favicon = "favicon.ico"
     description = "Guida Pile's House Listings And More."
     images = ["img/header01.jpg", "img/header02.jpg"]
-    headername = "Guida Pile - Listings"
+    headername = "Guida Pile's Listings"
     #msvalidate = ""
     #googlesiteverification = ""
 

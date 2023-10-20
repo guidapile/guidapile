@@ -44,8 +44,8 @@ The front yard has a double carport which can be used as a parking area for the 
 
 Do not miss out on this opportunity. Give Guida Pile or Armand Naude a call and arrange a private viewing.
 
-**Guida Pile:** 071 281 0341
-**Armand Naude:** 060 820 2959
+- **Guida Pile:** 071 281 0341
+- **Armand Naude:** 060 820 2959
 
 [Property24 Page](https://www.property24.com/for-sale/potchefstroom-central/potchefstroom/north-west/5025/113098518)
 
