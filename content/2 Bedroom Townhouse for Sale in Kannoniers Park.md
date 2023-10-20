@@ -44,8 +44,8 @@ A well-maintained 2 bedroom and one-bathroom townhouse situated close to Medi- C
 
 If you are interested contact either Guida Pile or Armand Naude:
 
-**Guida Pile:** 071 281 0341
-**Armand Naude:** 060 820 2959
+- **Guida Pile:** 071 281 0341
+- **Armand Naude:** 060 820 2959
 
 [Property24 Page](https://www.property24.com/for-sale/kannoniers-park/potchefstroom/north-west/5061/113462161)
 
