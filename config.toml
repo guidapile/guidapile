@@ -1,6 +1,6 @@
 baseURL = "http://guidapile.pages.dev/"
 languageCode = "en-us"
-title = "Guida Pile"
+title = "Guida Pile - Listings"
 theme = "ticky_tacky_dark"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
