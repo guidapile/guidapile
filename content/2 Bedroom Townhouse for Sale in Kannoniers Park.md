@@ -6,7 +6,7 @@ author:
     name: "Guida Pile"
 date: 2019-12-08T00:00:00-00:00
 buttonimage: "img/house1.png"
-images: ["img/house1.png"]
+images: ["img/house1.png", "img/house1-1.png"]
 imagealt: "Awesome Page Image"
 draft: false
 weight: 1
