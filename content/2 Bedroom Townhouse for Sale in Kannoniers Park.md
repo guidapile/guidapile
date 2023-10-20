@@ -3,7 +3,7 @@ title: "2 Bedroom Townhouse for Sale in Kannoniers Park"
 description: "2 Bedroom Townhouse for Sale in Kannoniers Park"
 aliases: ["about-us","about-hugo","contact"]
 author:
-    name: "Guida Pile"
+    name: "2 Bedroom Townhouse for Sale in Kannoniers Park"
 date: 2019-12-08T00:00:00-00:00
 buttonimage: "img/house1.png"
 images: ["img/house1.png", "img/house1-1.png"]
