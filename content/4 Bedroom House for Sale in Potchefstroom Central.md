@@ -27,11 +27,11 @@ The front yard has a double carport which can be used as a parking area for the 
 
 ### Rooms
 
-- **Bedrooms:* 4
-- **Bathrooms:* 2
+- **Bedrooms:** 4
+- **Bathrooms:** 2
 - **Kitchen**
 - **Laundry**
-- **Lounges:* 1
+- **Lounges:** 1
 - **Dining Rooms:** 1
 
 ### External Features:
