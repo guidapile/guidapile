@@ -1,3 +1,4 @@
+.box { padding-bottom:.25em; }
 #headerimg { width: 100%; }
 #footer { font-size: .8em; }
 #sideimage { width: 100%; }
@@ -7,6 +8,17 @@
 @font-face {
     font-family: "Ubuntu-Titling";
     src: url("../font/UbuntuTitling-Bold.ttf") format("truetype");
+}
+
+.top-section {
+    margin: 20px;
+}
+.morerounded { border-radius:15px; }
+.veryrounded { border-radius:30px; }
+.navbar {
+    list-style-type: none;
+    flex-direction: column;
+    align-items: flex-start;
 }
 .imgbtntxt { text-align:center; font-size:1.5em; font-weight:normal; color:#999; text-decoration:none; }
 .abitbigger { font-size:1.3em; }
@@ -41,13 +53,7 @@ pre {
 
 h1, h2, h3, h4, h5, h6 {
     color: #eee;
-}
 
-ul.navbar a:focus, ul.navbar a:hover {
-    color: #00243d;
-}
-ul.navbar a {
-    color: #00497a;
 }
 
 div.imgbtntxt a:focus, div.imgbtntxt a:hover {
@@ -75,5 +81,4 @@ a {
     a { color:#33f; }
     .loud { color: #000; }
     .box { color: #000; }
-    .navbar { display: none; }
 }
