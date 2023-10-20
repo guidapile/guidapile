@@ -13,7 +13,7 @@ weight: 1
 
 # R 620 000
 
-2 Bedroom townhouse
+2 Bedroom Townhouse for Sale in Kannoniers Park.
 
 Exclusive Mandate.
 
