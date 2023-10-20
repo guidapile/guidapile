@@ -11,9 +11,6 @@ draft: false
 weight: 1
 ---
 
-[params]
-    images = ["img/header1.png", "img/header1-1.png"]
-
 # R 620 000
 
 2 Bedroom townhouse
