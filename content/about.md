@@ -1,12 +1,12 @@
 ---
-title: "About"
-description: "Hugo, the world’s fastest framework for building websites"
+title: "About Me"
+description: "About Guida Pile"
 aliases: ["about-us","about-hugo","contact"]
 author:
     name: "Hugo Authors"
 date: 2019-12-08T00:00:00-00:00
 buttonimage: "img/awebutton.jpg"
-images: ["img/awesome01.jpg", "img/awesome02.jpg"]
+images: ["img/awesome01.jpg", "img/guida.jpg"]
 imagealt: "Awesome Page Image"
 draft: false
 weight: 1
