@@ -34,13 +34,13 @@ A well-maintained 2 bedroom and one-bathroom townhouse situated close to Medi- C
 
 ### External Features:
 
-**Parking:** 1
-**Gardens:** 1
-**Outbuilding:** Storeroom
+- **Parking:** 1
+- **Gardens:** 1
+- **Outbuilding:** Storeroom
 
 ### Other features:
 
-**Security:** Electric Gate and Electric fencing.
+- **Security:** Electric Gate and Electric fencing.
 
 If you are interested contact either Guida Pile or Armand Naude:
 
