@@ -7,6 +7,16 @@
                 {{- partial "body_header.html" . -}}
                 {{ with $.Param "headername" }}<div id="header-text">{{ . }}</div>{{ end -}}
             </header>
+            <div id="content" class="top-section">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col col-12 col-sm-8 col-lg-9">
+                            <main class="row">
+                                {{- block "main" . }}{{- end }}
+                            </main>
+                        </div>
+                        <nav class="col col-8 offset-2 col-sm-4 offset-sm-0 col-lg-3">
+                            {{- partial "navbar" . -}}
                         </nav>
                     </div>
                 </div>
@@ -21,3 +31,4 @@
     <script src="{{ . }}"></script>
     {{ end }}
 </html>
+
