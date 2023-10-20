@@ -1,6 +1,6 @@
 baseURL = "http://guidapile.pages.dev/"
 languageCode = "en-us"
-title = "Ticky Tacky Dark"
+title = "Guida Pile"
 theme = "ticky_tacky_dark"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -10,7 +10,7 @@ enableEmoji = true
     favicon = "favicon.ico"
     description = "The demonstration page for the Hugo Ticky Tacky Dark theme."
     images = ["img/header01.jpg", "img/header02.jpg"]
-    headername = "tickytackydark"
+    headername = "Guida Pile"
     #msvalidate = ""
     #googlesiteverification = ""
 
