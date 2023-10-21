@@ -27,7 +27,7 @@
     font-weight: bold;
     font-size: 7vw;
     text-shadow: 0px 0px 10px black, 0px 0px 10px black, 0px 0px 10px black, 0px 0px 10px black;
-    color: white;
+    color: black;
     position: absolute;
     bottom: -1.2vw;
     left: 0vw;
@@ -39,7 +39,7 @@ a:hover { text-decoration: none; }
 body {
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     background:white;
-    color: #ddd;
+    color: #000;
 }
 
 pre {
