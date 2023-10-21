@@ -50,13 +50,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 div.imgbtntxt a:focus, div.imgbtntxt a:hover {
-    color: #09f;
+    color: #141414;
 }
 a:focus, a:hover {
     color: #7cf;
 }
 a {
-    color: #131212;
+    color: #09f;
 }
 .loud {
     color: #fff;
