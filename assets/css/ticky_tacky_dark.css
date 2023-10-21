@@ -26,10 +26,11 @@
     font-family: "Ubuntu-Titling", "Ubuntu", Roboto, sans-serif;
     font-weight: bold;
     font-size: 7vw;
-    color: black;
+    color: white;
     position: absolute;
     bottom: -1.2vw;
     left: 0vw;
+    backround: black 
 }
 
 /* Styles mimicing old blueprint */
