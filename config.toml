@@ -10,7 +10,8 @@ enableEmoji = true
     favicon = "favicon.ico"
     description = "Guida Pile's House Listings And More."
     images = ["img/header01.jpg", "img/header02.jpg"]
-    headername = "Guida Pile's Listings"
+    headername = "Guida Pile's 
+                  Listings"
     #msvalidate = ""
     #googlesiteverification = ""
 
