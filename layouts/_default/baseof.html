@@ -1,31 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-    <head>{{- partial "head.html" . -}}</head>
-    <body>
-        <div id="full_body">
-            <header id="header" class="top-section">
-                {{- partial "body_header.html" . -}}
-                {{ with $.Param "headername" }}<div id="header-text">{{ . }}</div>{{ end -}}
-            </header>
-            <div id="content" class="top-section">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col col-12 col-sm-8 col-lg-9">
-                            <main class="row">
-                                {{- block "main" . }}{{- end }}
-                            </main>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <footer id="footer" class="top-section">
-                {{- partial "body_footer.html" . -}}
-            </footer>
-            {{- partial "foot.html" . -}}
-        </div>
-    </body>
-    {{ range .Params.js }}
-    <script src="{{ . }}"></script>
-    {{ end }}
+<head>{{ partial "head.html" . }}</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              {{ partial "sidebar.html" . }}
+              {{ block "main" . }}
+              {{ end }}
+          </div>
+      </div>
+  </div>
+  {{ partial "scripts.html" . }}
+</body>
 </html>
-
